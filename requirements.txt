@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+# هر کتابخونه دیگه‌ای که تو کدت استفاده کردی رو هم اضافه کن
